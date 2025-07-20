@@ -1,0 +1,34 @@
+# Maven target build directories
+target/
+bin/
+*.war
+*.jar
+
+# IDE/project files
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test output and temp files
+test-output/
+*.tmp
+*.swp
+*.bak
+*.old
+
+# Docker
+docker-compose.override.yml

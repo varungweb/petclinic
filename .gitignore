@@ -1,0 +1,30 @@
+# Maven
+target/
+bin/
+*.log
+
+# Compiled files
+*.class
+*.war
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Temp/backup files
+*.tmp
+*.bak
+*.swp
